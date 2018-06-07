@@ -2,4 +2,4 @@ function shout(string) {
   return string.toUpperCase();
 }
 
-shout(hi);
+shout("hi");
